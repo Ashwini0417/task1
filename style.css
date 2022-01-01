@@ -1,0 +1,23 @@
+.p-content{
+	padding: 15px;
+	font-size: 18px;
+	background: #dbdfe5;
+	margin-bottom: 15px;
+}
+
+.btn{
+
+	display: block;
+	width: 100%;
+	border: none;
+	color: white;
+	padding: 14px 28px;
+	font-size: 16px;
+	cursor: pointer;
+	text-align: center;
+}
+
+.container{
+	font-weight: bold;
+	
+}
